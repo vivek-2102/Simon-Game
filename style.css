@@ -1,0 +1,73 @@
+/* .blue{
+    background-color: blue;
+}
+.white{
+    color:white;
+}
+.underline{
+text-decoration: 2px solid black wavy;
+}
+.purple{
+    color:purple;
+}
+
+.bold{
+    font-weight: bold;
+     
+}
+.border{
+    border: 1px solid black;
+    border-radius: 2mm;
+    border-color: black;
+    height: 200px;
+    width: 400px;
+    margin-top: 10px;
+
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
+
+
+
+body{
+    text-align:center;
+}
+.btn{
+    height: 150px;
+    width: 150px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 2.5rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.orange
+{
+    background-color: orange;
+}
+
+.purple
+{
+    background-color: plum;
+}
+
+.pink{
+    background-color: pink;
+}
+.green{
+    background-color: greenyellow;
+}
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: green;
+}
